@@ -1,0 +1,10 @@
+# 系統檔
+.DS_Store
+# Firebase
+.firebase/
+firebase-debug.log
+*.log
+# 相依套件
+node_modules/
+# 壓縮檔
+*.zip
